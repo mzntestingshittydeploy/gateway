@@ -1,0 +1,4 @@
+commonLabels:
+   dummu: Test
+resources:
+  - Gateway.App/Deploy/Dev/app.yml
